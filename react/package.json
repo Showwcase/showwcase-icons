@@ -1,0 +1,21 @@
+{
+  "name": "@showwcase-icons/react",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Showwcase/showwcase-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Showwcase/showwcase-icons.git"
+  },
+  "files": [
+    "solid"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": ">= 16"
+  }
+}

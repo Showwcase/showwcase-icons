@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true">
+  <path d="M0 0h540v450H0z"/>
+  <defs>
+    <linearGradient id="a" x1="0" x2="0" y1="0" y2="100%" gradientTransform="rotate(194 659 331)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#4FE"/>
+    </linearGradient>
+    <pattern id="b" width="474" height="395" x="0" y="0" patternUnits="userSpaceOnUse" viewBox="0 0 1080 900">
+      <g fill-opacity=".22">
+        <path d="M90 150L0 300h180z"/>
+        <path d="M90 150L180 0H0z"/>
+        <path d="M270 150L360 0H180z"/>
+        <path d="M450 150l-90 150h180z"/>
+        <path d="M450 150L540 0H360z"/>
+        <path d="M630 150l-90 150h180z"/>
+        <path d="M630 150L720 0H540z"/>
+        <path d="M810 150l-90 150h180z"/>
+        <path d="M810 150L900 0H720z"/>
+        <path d="M990 150l-90 150h180z"/>
+        <path d="M990 150l90-150H900z"/>
+        <path d="M90 450L0 600h180z"/>
+        <path d="M90 450l90-150H0z"/>
+        <path d="M270 450l-90 150h180z"/>
+        <path d="M270 450l90-150H180z"/>
+        <path d="M450 450l-90 150h180z"/>
+        <path d="M450 450l90-150H360zM630 450l-90 150h180z"/>
+        <path d="M630 450l90-150H540z"/>
+        <path d="M810 450l-90 150h180z"/>
+        <path d="M810 450l90-150H720z"/>
+        <path d="M990 450l-90 150h180z"/>
+        <path d="M990 450l90-150H900z"/>
+        <path d="M90 750L0 900h180z"/>
+        <path d="M270 750l-90 150h180z"/>
+        <path d="M270 750l90-150H180z"/>
+        <path d="M450 750l90-150H360zM630 750l-90 150h180z"/>
+        <path d="M630 750l90-150H540z"/>
+        <path d="M810 750l-90 150h180z"/>
+        <path d="M810 750l90-150H720z"/>
+        <path d="M990 750l-90 150h180zM180 0L90 150h180z"/>
+        <path d="M360 0l-90 150h180z"/>
+        <path d="M540 0l-90 150h180z"/>
+        <path d="M900 0l-90 150h180z"/>
+        <path d="M0 300l-90 150H90z"/>
+        <path d="M0 300l90-150H-90zM180 300L90 450h180z"/>
+        <path d="M180 300l90-150H90z"/>
+        <path d="M360 300l-90 150h180z"/>
+        <path d="M360 300l90-150H270z"/>
+        <path d="M540 300l-90 150h180z"/>
+        <path d="M540 300l90-150H450z"/>
+        <path d="M720 300l-90 150h180z"/>
+        <path d="M720 300l90-150H630z"/>
+        <path d="M900 300l-90 150h180z"/>
+        <path d="M900 300l90-150H810z"/>
+        <path d="M0 600l-90 150H90z"/>
+        <path d="M0 600l90-150H-90z"/>
+        <path d="M180 600L90 750h180z"/>
+        <path d="M180 600l90-150H90zM360 600l-90 150h180z"/>
+        <path d="M360 600l90-150H270z"/>
+        <path d="M540 600l90-150H450z"/>
+        <path d="M720 600l-90 150h180z"/>
+        <path d="M900 600l-90 150h180z"/>
+        <path d="M900 600l90-150H810z"/>
+        <path d="M0 900l90-150H-90z"/>
+        <path d="M180 900l90-150H90z"/>
+        <path d="M360 900l90-150H270z"/>
+        <path d="M540 900l90-150H450z"/>
+        <path d="M720 900l90-150H630z"/>
+        <path d="M900 900l90-150H810zM1080 300l-90 150h180z"/>
+        <path d="M1080 300l90-150H990z"/>
+        <path d="M1080 600l-90 150h180z"/>
+        <path d="M1080 600l90-150H990z"/>
+        <path d="M1080 900l90-150H990z"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%"/>
+  <rect width="100%" height="100%"/>
+</svg>
